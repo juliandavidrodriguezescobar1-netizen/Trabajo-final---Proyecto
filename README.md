@@ -1,2 +1,3 @@
- Proyecto Final Metodos Numericos - Errores en estaciones hidroclimatologicas (JupyterLite)
+ **Proyecto Final Metodos Numericos** - Errores en estaciones hidroclimatologicas (JupyterLite)
+ 
 Este proyecto forma parte del módulo de programación aplicada al análisis ambiental. El objetivo es **aplicar herramientas de python para identificaar y corregir los datos que no corresponden o las estaciones no alcanzan a identificar plenamente para asi reducir el indice de error de estas mediante la aplicacion de metodos numericos.
